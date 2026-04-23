@@ -1,0 +1,277 @@
+:: StoryTitle
+Colonists Suck
+
+
+:: StoryData
+{
+  "ifid": "A092DE26-F84E-4C43-A3A7-5FAA383F6BF4",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Welcome Wagon",
+  "zoom": 1
+}
+
+
+:: Accepts Your Sacrifice {"position":"1350,50","size":"100,100"}
+Delicious! The White Man’s hunger is satiated now. He decides to take his leftovers and go. He leaves your village. 
+The neighbors have noticed your son is missing.
+You Tell Them [[Your Son Has Moved Away]]
+You Tell Them [[Your Son Was Murdered]] by a Hideous Beast
+
+
+
+:: Apologize {"position":"1700,500","size":"100,100"}
+You pull yourself together and tell your neighbors that you’re sorry, it was just all too much, and you weren’t prepared for your little girl to leave the nest so soon.
+They Accept Your Apology
+They Don’t Accept Your Apology
+
+
+
+:: Avenge the Death Of Your Child {"position":"1900,500","size":"100,100"}
+Fully armed with torches and pitchforks you and your neighbors set out on a journey to find the White Man who stole your child and bring his reign of terror to an end.
+[[To Be Continued…]]
+
+
+
+:: Better Luck Next Time {"position":"2375,625","size":"100,100"}
+Whoa! What a weird ass dream! You shouldn’t eat before bed anymore. 
+The next morning you awake to see another [[Welcome Wagon]].
+
+
+:: Congratulations! {"position":"850,575","size":"100,100"}
+Your shrewd and unwelcoming nature has saved the village. The “colonist” was the White Man. A Vampire. By telling them to get lost, you and your family survive and live another day to fight the White Man.
+
+[[The End.]] 
+
+
+:: Exact Your Revenge {"position":"3000,375","size":"100,100"}
+As a werewolf pack, you stalk your prey under the full moon and hunt the White Man down to bring his reign of terror to an end. 
+He must pay for what he has done to you and your remaining family!
+[[To Be Continued…]]
+
+
+
+:: Gracious Host {"position":"850,325","size":"100,100"}
+Ever the gracious host to a weary stranger, you invite the colonist into your home and offer to feed him dinner.
+[[Mistakes Were Made]]
+
+
+
+:: Hunt the White Man {"position":"2225,725","size":"100,100"}
+I’ll have to get back to you, it isn’t written yet. 
+In the meantime, you can start back at the beginning to play again.
+Greet the [[Welcome Wagon]]
+
+
+
+:: It Was a Wolf {"position":"1550,325","size":"100,100"}
+Terrified their own children could be next, your neighbors instantly believe you and put together a hunting party. The next night, you all murder an innocent wolf but are able to alleviate the fears of the village. They will never know that you fed your son to the White Man.
+[[The End.]]
+
+
+
+:: It Was the White Man {"position":"1550,200","size":"100,100"}
+You tell your neighbors the truth, the White Man is a vampire. He killed and ate your son. With a satisfied burp, he packed the leftovers to go, and they’d watched him leave on the wagon. 
+[[They Don’t Believe in the White Man]]
+[[They Do Believe in the White Man]]
+
+
+
+:: Keep Moving {"position":"850,450","size":"100,100"}
+Ever the snob to a wandering good-for-nothing, you tell the down-and-out drifter to move along.
+[[Congratulations!]]
+
+
+
+:: Mistakes Were Made {"position":"1000,250","size":"100,100"}
+The “colonist” in the back of the wagon was a White Man. A Vampire. He accepts your hospitality and offer for dinner, but now you must choose who will be his dinner.
+[[Sacrifice Your Daughter]]
+[[Sacrifice Your Son]]
+
+
+
+:: Murder Everyone in Their Sleep {"position":"3000,100","size":"100,100"}
+Now everyone is dead. Take that villagers. Suck it!
+[[Take Revenge on the White Man]]
+
+
+
+:: Sacrifice Your Daughter {"position":"1200,525","size":"100,100"}
+The White Man leers at your daughter and graciously accepts your sacrifice.
+[[Welcome To The Family]]
+
+
+
+:: Sacrifice Your Son {"position":"1175,100","size":"100,100"}
+The White Man licks his lips with anticipation. 
+He Graciously [[Accepts Your Sacrifice]]
+
+
+
+:: Stupid Wolves {"position":"2600,200","size":"100,100"}
+…or not! Those were no ordinary wolves. You and your remaining family are reborn as a pack of werewolves. Great, now what?
+[[Take Revenge on the White Man]]
+[[Take Revenge on the Village]]
+[[Wake Up!]]
+
+
+
+:: Take Revenge on the Village {"position":"2800,100","size":"100,100"}
+You and your remaining family wait until the next full moon. You all go to the village and exact your revenge.
+[[Murder Everyone in Their Sleep]]
+[[Turn Them All into Werewolves]]
+
+
+
+:: Take Revenge on the White Man {"position":"2800,200","size":"100,100"}
+It’s indisputable! It’s the White Man’s fault that you all were driven from your home and mauled by wolves in the forest. You and your remaining family wait for the next full moon.
+[[Exact Your Revenge]].
+
+
+
+:: The End. {"position":"1800,800","size":"100,100"}
+The next day another wagon rolls into town. Here we go again.
+[[Welcome Wagon]]
+
+
+
+:: They Accept Your Apology {"position":"2225,300","size":"100,100"}
+Out of pity, they accept your apology and you’re allowed to stay in the village. Hooray, you and what’s left of your family survive another day to fight the White Man.
+[[The End.]]
+
+
+
+:: They Believe You {"position":"1925,125","size":"100,100"}
+Your neighbors are gullable people. They believe you. Great work! You and your remaining family are safe to fight the White Man another day.
+[[The End.]]
+
+
+
+:: They Do Believe in the White Man {"position":"1750,375","size":"100,100"}
+Damn the White Man! The entire village is up in arms and decides to form a hunting party.
+[[Avenge the Death Of Your Child]]
+
+
+
+:: They Don’t Accept Your Apology {"position":"2225,400","size":"100,100"}
+You beg and plead but your neighbors have had enough of your wretched lies and pathetic apologies. You and your remaining family are kicked out of the village and forced to live in the forest. Good riddance!
+[[You Die of Dysentery]]
+[[You Die of Starvation]]
+[[You Die of Wolf Bites]]
+
+
+
+:: They Don’t Believe You {"position":"1850,0","size":"100,100"}
+Your neighbors aren’t so easily fooled. They saw the White Man leave alone with only a doggy bag. Busted! You decide to tell them the truth.
+[[Your Son Was Murdered]] by a Hideous Beast
+
+
+
+:: They Don’t Believe in the White Man {"position":"1750,250","size":"100,100"}
+They call you a racist. 
+They tell you, “Not all white men are evil!” 
+They tell you, “It’s a filthy rumor.”
+They tell you, “The White Men are just like you and me – it’s disgusting how these rumors spread.”
+They tell you, “We have a White Man in our family and he’s totally not a blood sucking vampire!”
+Realizing this is all an exercize in futility, [[You Lie]].
+Enjoying the pain of metaphorically slamming your head against a wall, [[You Insist It Was the White Man]], not a white man. 
+
+
+
+:: To Be Continued… {"position":"2000,675","size":"100,100"}
+[[Better Luck Next Time]] (Want to play again?)
+Continue to [[Hunt the White Man]]?
+
+
+
+:: Turn Them All into Werewolves {"position":"3000,200","size":"100,100"}
+Now everyone has been turned into werewolves. Take that villagers. Revenge is so sweet!
+[[Take Revenge on the White Man]]
+
+
+
+:: Wake Up! {"position":"2800,300","size":"100,100"}
+Wow. What the hell? Did that really just happen?
+[[Better Luck Next Time]]
+
+
+
+:: Welcome To The Family {"position":"1375,525","size":"100,100"}
+The White Man decides to take your daughter as his bride. She begs you not to let this vile creature take her, but what are you going to do? You can’t fight the White Man. The White Man kills your daughter and turns her. The next morning, the White Man leaves with your daughter, his new vampire bride. 
+The neighbors watch them get in the wagon and leave.
+[[You tell them Your Daughter Moved Away]]
+[[You tell them Your Daughter Was Murdered]]
+
+
+
+:: Welcome Wagon {"position":"625,400","size":"100,100"}
+A new wagon rolls into town. One of those “colonists” is in the back of the wagon.
+Be a [[Gracious Host]]
+Tell them to [[Keep Moving]]
+
+
+
+:: You Die of Dysentery {"position":"2425,300","size":"100,100"}
+Life in the forest is rough, but not as rough as that poop infected water you’ve been drinking. You and your remaining family dies of dysentery.
+Silver lining! Your bodies fertilize the soil, where new life springs forth and eventually, everyone forgets about the crazy family in the woods and their lies about the White Man.
+[[Better Luck Next Time]]. 
+
+
+
+:: You Die of Starvation {"position":"2425,400","size":"100,100"}
+Life in the forest is rough, there is not enough food to go around. Refusing to eat the children or the elders, you and your remaining family die from starvation.
+Silver lining! Your bodies fertilize the soil, where new life springs forth and eventually, everyone forgets about the crazy family in the woods and their lies about the White Man.
+[[Better Luck Next Time]]. 
+
+
+
+:: You Die of Wolf Bites {"position":"2425,200","size":"100,100"}
+Life in the forest is rough, but not as rough as trying to fight off a pack of wolves and failing fantastically. With no access to medical treatment, you and your remaining family die from wolf bites.
+[[Stupid Wolves]]! 
+
+
+
+:: You Insist It Was the White Man {"position":"1950,250","size":"100,100"}
+Your neighbors are simple village people and don’t understand the difference. They slowly back away from you because you’re obviously a nutter. 
+Thinking quickly, [[You Lie]].
+
+
+:: You Lie {"position":"2100,400","size":"100,100"}
+Ha. Ha. Ha. Your bad!
+You tell your neighbors you were just joking, you’re sorry, and obviously you were mistaken. Your child must’ve run off into the night.
+[[They Accept Your Apology]]
+[[They Don’t Accept Your Apology]]
+
+
+
+:: You tell them Your Daughter Moved Away {"position":"1475,675","size":"100,100"}
+Your neighbors believe you because they watched her leave on the wagon with The White Man. Good work! You and your remaining family survive and live another day to fight the White Man.
+[[The End.]]
+
+
+
+:: You tell them Your Daughter Was Murdered {"position":"1525,500","size":"100,100"}
+With fury in your heart and tears in your eyes, you tell your neighbors your daughter was murdered by a hideous beast. They think you’ve gone insane as they just watched your daughter leave on the wagon with the White Man.
+Wiping your tears, you [[Apologize]].
+Furiously, [[you tell them off]].
+
+
+
+:: Your Son Has Moved Away {"position":"1550,25","size":"100,100"}
+You tell your neighbors that your son wanted to see the world and left last night on the wagon to travel with the White Man. It’s sad, but he’s better off.
+[[They Believe You]]
+[[They Don’t Believe You]]
+
+
+:: Your Son Was Murdered {"position":"1350,175","size":"100,100"}
+With fury in your heart and tears in your eyes, you tell your neighbors your son was murdered by a hideous beast. Horrified, they ask you what kind. 
+You Tell Them [[It Was a Wolf]]
+You Tell Them [[It Was the White Man]]
+
+
+:: you tell them off {"position":"1600,625","size":"100,100"}
+You desparately tell them The White Man changed your daughter. He defiled her, stole her, and what she is now is no longer your daughter anymore. 
+Your neighbors listen to your hysterical ranting.
+[[They Don’t Believe in the White Man]]
+[[They Do Believe in the White Man]]
+
